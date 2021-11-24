@@ -1,2 +1,1 @@
-# rubric_client
-rubric
+# rubric

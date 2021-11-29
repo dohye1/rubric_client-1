@@ -1,0 +1,6 @@
+{
+  "App.Hello": "Hello",
+  "App.filter.dateRange.today": "Today",
+  "App.filter.dateRange.thisWeek": "This Week",
+  "App.filter.dateRange.thisMonth": "This Month"
+}

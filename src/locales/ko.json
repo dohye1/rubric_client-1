@@ -1,0 +1,6 @@
+{
+  "App.Hello": "안녕하세요~",
+  "App.filter.dateRange.today": "오늘",
+  "App.filter.dateRange.thisWeek": "이번 주",
+  "App.filter.dateRange.thisMonth": "전 주"
+}

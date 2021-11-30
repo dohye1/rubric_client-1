@@ -24,6 +24,7 @@ function App() {
       <div className="App">
         <FormattedMessage id="App.Hello">
           {(text) => {
+            console.log(text);
             return <h1>{text}</h1>;
           }}
         </FormattedMessage>

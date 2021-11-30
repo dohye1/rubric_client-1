@@ -25,4 +25,4 @@ jobs:
           CI: ''
           # REACT_APP_HOST: ${{ secrets.REACT_APP_HOST }}
           # REACT_APP_ROOT_URL: ${{ secrets.REACT_APP_ROOT_URL }}
-          # GITHUB_TOKEN: ${{secrets.REPO_SCOPED_TOKEN }}
+          GITHUB_TOKEN: ${{secrets.REPO_SCOPED_TOKEN }}
